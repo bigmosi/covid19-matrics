@@ -3,7 +3,7 @@
 
 .banner-div {
   display: flex;
-  background-color: #142d8180;
+  background-color: rgb(219, 49, 120);  
   justify-content: space-between;
   border-radius: 50px;
   margin-top: 10px;
@@ -68,8 +68,8 @@
 .categories {
   display: flex;
   flex-wrap: wrap;
-  border: 1px solid #112b80;
-  background-color: #142d8180;
+  border: 1px solid #fff;
+  background-color: rgb(219, 49, 120);  
   border-radius: 50px;
 }
 

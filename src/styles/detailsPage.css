@@ -24,12 +24,12 @@
 .details-div {
   display: flex;
   justify-content: space-between;
-  background-color: #142d8180;
-  border: 1px solid #112b80;
+  background-color: rgb(219, 49, 120);
+  border: 1px solid #fff;
 }
 
 .details-div:nth-child(even) {
-  background: linear-gradient(to right, #3d5abbc9, #112b80b2);
+  background: linear-gradient(to right,rgb(219, 49, 120), #c71585);
 }
 
 .detail-name,

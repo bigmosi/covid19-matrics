@@ -70,7 +70,7 @@ const DetailsPage = () => {
               <h1 className="detail-data">{countryData[0].TotalDeaths}</h1>
             </div>
             <div className="details-div">
-              <h1 className="detail-name">New Confirmed</h1>
+              <h1 className="detail-name">New Deaths</h1>
               <h1 className="detail-data">{countryData[0].NewDeaths}</h1>
             </div>
             <div className="details-div radius2">
