@@ -30,7 +30,7 @@
 
 ## Online live link
 
-[Visit project online](https://covid19-metrics-thecodechaser.netlify.app)
+[Visit project online]()
 
 ## Getting Started
 
@@ -50,7 +50,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone the project
 
 ```bash 
-git clone https://github.com/thecodechaser/covid19-metrics
+git clone https://github.com/bigmosi/covid19-metrics
 
 cd covid19-metrics
 ```
@@ -75,26 +75,26 @@ npm run test
 
 ## Visit And Open Files
 
-[Visit Repo](https://github.com/thecodechaser/covid19-metrics)
+[Visit Repo](https://github.com/bigmosi/covid19-metrics)
 
 ## Download Repo
 
-[Download Repo](https://github.com/thecodechaser/covid19-metrics/archive/refs/heads/main.zip)
+[Download Repo](https://github.com/bigmosi/covid19-metrics/archive/refs/heads/main.zip)
 
 ## Authors
 
 👤 **Ranjeet Singh**
 
-- GitHub: [@githubhandle](https://github.com/thecodechaser)
-- Twitter: [@twitterhandle](https://twitter.com/thecodechaser)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/thecodechaser)
+- GitHub: [@githubhandle](https://github.com/bigmosi)
+- Twitter: [@twitterhandle](https://twitter.com/kinyera_amos)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/kinyera-amos)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/thecodechaser/covid19-metrics/issues).
+Feel free to check the [issues page](https://github.com/bigmosi/covid19-metrics/issues).
 
 ## Show your support
 
