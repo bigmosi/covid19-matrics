@@ -30,7 +30,7 @@
 
 ## Online live link
 
-[Visit project online]()
+[Visit project online](https://bigmosi-covid19-matrics.netlify.app)
 
 ## Getting Started
 
