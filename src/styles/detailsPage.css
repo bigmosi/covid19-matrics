@@ -29,7 +29,7 @@
 }
 
 .details-div:nth-child(even) {
-  background: linear-gradient(to right,rgb(219, 49, 120), #c71585);
+  background: linear-gradient(to right,rgb(219, 49, 120),#c71585);
 }
 
 .detail-name,
