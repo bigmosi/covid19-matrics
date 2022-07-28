@@ -3,7 +3,8 @@
 
 .banner-div {
   display: flex;
-  background-color: rgb(219, 49, 120);  
+  background-color:rgb(219, 49, 120);
+
   justify-content: space-between;
   border-radius: 50px;
   margin-top: 10px;
@@ -69,7 +70,8 @@
   display: flex;
   flex-wrap: wrap;
   border: 1px solid #fff;
-  background-color: rgb(219, 49, 120);  
+  background-color:rgb(219, 49, 120);
+
   border-radius: 50px;
 }
 
