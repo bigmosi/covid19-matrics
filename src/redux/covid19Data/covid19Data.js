@@ -3,7 +3,7 @@ import Axios from 'axios';
 const baseURL = 'https://api.covid19api.com/summary';
 
 // constants
-const FETCH_DATA = 'covidMetrics/covid19Data/FETCH_DATA';
+const FETCH_DATA = 'FETCH_DATA';
 
 // actions
 

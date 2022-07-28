@@ -41,7 +41,7 @@ describe('Test', () => {
 
 describe('Mock covidData Reducer', () => {
   test('Test covidData Reducer With Mock Data', () => {
-    const FETCH_DATA = 'covidMetrics/covid19Data/FETCH_DATA';
+    const FETCH_DATA = 'FETCH_DATA';
     const store = mockStore;
     const action = {
       type: FETCH_DATA,
